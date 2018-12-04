@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/main_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        tools:text="Edit Text"/>
+
+    <TextView
+        android:id="@+id/main_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Hello World!"
+        android:textSize="@android:dimen/app_icon_size"/>
+
+    <Button
+        android:id="@+id/kopas_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kopas"/>
+
+    <TextView
+        android:id="@+id/main_tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Hello World!"
+        android:textSize="@android:dimen/app_icon_size"/>
+
+</LinearLayout>

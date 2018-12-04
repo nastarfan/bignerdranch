@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentCommunication</string>
+    <string name="left_button">Left</string>
+    <string name="right_button">Right</string>
+    <string name="a_button">A</string>
+    <string name="b_button">B</string>
+    <string name="parent_check_button">Check child</string>
+    <string name="child_check_button">Check parent</string>
+    <string name="call_child_button">Call child button</string>
+    <string name="message_left">I know you clicked the left one</string>
+    <string name="message_right">Well it must be the right button</string>
+    <string name="message_a">You definitely clicked A!</string>
+    <string name="message_b">Easy peasy, you clicked B ;)</string>
+    <string name="message_none">Hmmm you didn\'t seem to have clicked any button</string>
+</resources>

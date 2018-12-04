@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+    <string name="text_main">I live outside of a fragment</string>
+    <string name="text_fragment">I live inside of a fragment</string>
+</resources>
